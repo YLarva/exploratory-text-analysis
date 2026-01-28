@@ -1,0 +1,110 @@
+Loaded 900 lines of dialogue.
+
+Computing TF-IDF...
+
+Top 10 Words per Topic:
+============================================================
+
+[1] Characters - Core Simpsons Family
+------------------------------
+  ill             (0.2745)
+  simpson         (0.2158)
+  going           (0.1961)
+  im              (0.1755)
+  dont            (0.1716)
+  look            (0.1647)
+  birthday        (0.1541)
+  bart            (0.1535)
+  period          (0.1381)
+  just            (0.1316)
+
+[2] Characters - Themselves
+------------------------------
+  bart            (0.5189)
+  homer           (0.3706)
+  dad             (0.2722)
+  lisa            (0.2190)
+  mom             (0.2158)
+  maggie          (0.1325)
+  youre           (0.1302)
+  marge           (0.1243)
+  just            (0.1112)
+  dont            (0.1065)
+
+[3] Characters - Non-core Family
+------------------------------
+  mr              (0.2271)
+  dont            (0.1906)
+  krusty          (0.1853)
+  hes             (0.1640)
+  burns           (0.1640)
+  ned             (0.1573)
+  flanders        (0.1507)
+  like            (0.1505)
+  bart            (0.1436)
+  im              (0.1346)
+
+[4] Physical - Location
+------------------------------
+  island          (0.2517)
+  library         (0.2517)
+  school          (0.2346)
+  thirteenth      (0.2253)
+  upper           (0.2253)
+  town            (0.1904)
+  homer           (0.1799)
+  place           (0.1629)
+  kitchen         (0.1502)
+  bart            (0.1499)
+
+[5] Physical - Object
+------------------------------
+  bart            (0.2452)
+  sauce           (0.1930)
+  hey             (0.1918)
+  big             (0.1723)
+  cranberry       (0.1608)
+  dont            (0.1542)
+  homer           (0.1380)
+  thats           (0.1343)
+  okay            (0.1343)
+  im              (0.1226)
+
+[6] Non-physical - Event
+------------------------------
+  special         (0.2921)
+  tonight         (0.2191)
+  start           (0.1921)
+  ive             (0.1803)
+  number          (0.1700)
+  night           (0.1700)
+  tomorrow        (0.1700)
+  study           (0.1692)
+  love            (0.1514)
+  tell            (0.1514)
+
+[7] Non-physical - Emotion
+------------------------------
+  im              (0.4026)
+  sorry           (0.2213)
+  dont            (0.2077)
+  just            (0.1858)
+  bart            (0.1703)
+  going           (0.1558)
+  love            (0.1550)
+  homer           (0.1548)
+  know            (0.1548)
+  little          (0.1385)
+
+[8] Non-physical - Opinion/Judgement
+------------------------------
+  bart            (0.2870)
+  dont            (0.2673)
+  know            (0.2152)
+  im              (0.1913)
+  think           (0.1913)
+  like            (0.1782)
+  just            (0.1754)
+  youre           (0.1693)
+  little          (0.1515)
+  going           (0.1426)
